@@ -4,6 +4,7 @@ using namespace std;
 class Solution{
 public:
     void answer(int arr[3]){
+        //using if-else was kinda boring, wanted to be unconventional
         cout << "Enter 3 ele's: " << endl;
         for(int i = 0; i < 3; i++){
             cin >> arr[i];
