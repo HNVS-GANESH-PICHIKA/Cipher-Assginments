@@ -10,7 +10,6 @@ public:
 int main(){
     Solution sol;
     string str;
-    cout << "str: ";
     getline(cin, str);
     cout << sol.stringLength(str);
     return 0;
