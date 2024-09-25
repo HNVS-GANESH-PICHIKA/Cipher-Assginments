@@ -15,7 +15,7 @@ int main(){
     bool flag = false;
     for(int i = 0; i < size; i++){
         if(arr[i] == key){
-            cout << "pos: " << i;
+            cout << "pos: " << i+1;
             flag = true;
             break;
         }
