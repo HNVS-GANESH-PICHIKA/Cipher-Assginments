@@ -1,37 +1,23 @@
-# Cipher Assignments
+# Daily Assignments - Cipher Schools
 
-This repository contains various C++ programs focused on implementing different types of ciphers and encryption techniques. The aim of this project is to provide an understanding of how ciphers work and their implementations in C++.
+Welcome to the **Daily Assignments** repository for Cipher Schools! This repository contains C++ code implementations for the daily assignments provided by Cipher Schools, focusing on core topics in Data Structures and Algorithms (DSA) and problem-solving techniques.
 
 ## Table of Contents
 
 - [Description](#description)
-- [Getting Started](#getting-started)
-- [How to Use](#how-to-use)
-- [License](#license)
-- [Contributing](#contributing)
 - [Contact](#contact)
 
 ## Description
 
-The project includes assignments related to ciphers, specifically focusing on:
+This repository includes a collection of C++ programs aimed at enhancing understanding and practical knowledge in:
 
-- **Caesar Cipher**: A basic encryption technique where each letter in the plaintext is shifted a certain number of places down or up the alphabet.
-- **Vigenère Cipher**: A method of encrypting alphabetic text by using a simple form of polyalphabetic substitution.
-- **Substitution Cipher**: An encryption technique where each letter in the plaintext is replaced by a letter some fixed number of positions down the alphabet.
+- **Data Structures**: Implementations of fundamental data structures like arrays, linked lists, stacks, queues, trees, and graphs.
+- **Algorithms**: Key algorithms covering searching, sorting, dynamic programming, and other essential techniques.
+- **Problem Solving**: Various problems to develop analytical and coding skills, specifically tailored for competitive programming and technical interviews.
 
-The program in `ques1.cpp` implements one of these ciphers (please specify which one it is), demonstrating its functionality and usage.
+Each program is designed to demonstrate concepts clearly and concisely, helping learners to grasp the intricacies of C++ and DSA effectively.
 
-## Getting Started
-
-### Prerequisites
-
-Make sure you have the following installed:
-
-- C++ compiler (e.g., g++, clang)
-- A text editor or an IDE (e.g., Visual Studio Code, Code::Blocks)
-
-### Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/HNVS-GANESH-PICHIKA/Cipher-Assginments.git
+## Contact
+For any questions or inquiries, please contact: <br>
+Name: P Ganesh <br>
+email: nagpichikaganesh@gmail.com
